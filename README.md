@@ -10,9 +10,7 @@ This project focuses on analyzing **BMW car sales data** to extract key insights
 │── best_model.pkl                                                         # Saved ML model
 │── main.py                                                                # Run predictions from CLI
 │── images/                                                                # Key visuals
-    │── class_distribution.png
-    │── feature_importance.png
-    │── confusion_matrix.png
+    
 ```
 
 ## 📊 Exploratory Data Analysis (EDA)
